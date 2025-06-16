@@ -1,0 +1,10 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+.card-title {
+    color: #2c3e50;
+}
+.pagination .active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+}
